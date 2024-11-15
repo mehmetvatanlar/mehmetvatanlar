@@ -9,6 +9,6 @@
 
 - 📄 Know about my experiences [https://vatanlar.com.tr](https://vatanlar.com.tr)
 <hr>
-<p><a href="https://www.buymeacoffee.com/mehmetvatanlar"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mehmetvatanlar" /></a></p><br><br><br>
+<p><a href="https://www.buymeacoffee.com/mehmetvatanlar"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mehmetvatanlar" /></a></p>
 <hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehmetvatanlar&label=Profile%20views&color=0e75b6&style=flat" alt="mehmetvatanlar" /> </p>
